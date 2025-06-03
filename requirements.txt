@@ -2,3 +2,5 @@
   Pillow==10.0.0
   opencv-python==4.7.0.72
   numpy==1.24.2
+  matplotlib==3.7.1
+  scikit-image==0.19.3
